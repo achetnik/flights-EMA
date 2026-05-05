@@ -1,4 +1,4 @@
-"""East Midlands Airport (EMA) destinations — April 2026."""
+"""East Midlands Airport (EMA) destinations — May 2026."""
 
 DESTINATIONS = {
     "EMA": {
@@ -15,7 +15,6 @@ DESTINATIONS = {
             "BJV": "Bodrum",
             "BOJ": "Bourgas",
             "BUD": "Budapest",
-            "BVC": "Boa Vista",
             "CCF": "Carcassonne",
             "CFU": "Corfu",
             "CHQ": "Chania",
@@ -31,7 +30,6 @@ DESTINATIONS = {
             "GRO": "Girona",
             "GVA": "Geneva",
             "HER": "Heraklion",
-            "HRG": "Hurghada",
             "IBZ": "Ibiza",
             "JER": "Jersey",
             "JSI": "Skiathos",
@@ -54,9 +52,7 @@ DESTINATIONS = {
             "REU": "Reus",
             "RHO": "Rhodes",
             "RIX": "Riga",
-            "SID": "Sal",
             "SKG": "Thessaloniki",
-            "SSH": "Sharm El Sheikh",
             "SZG": "Salzburg",
             "TFS": "Tenerife South",
             "TRN": "Turin",
